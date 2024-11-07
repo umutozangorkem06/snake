@@ -1,4 +1,5 @@
 Snake Game 🐍
+
 Welcome to the Snake Game! This classic game is built using Python and Tkinter, allowing you to play and enjoy the nostalgia of guiding a snake to grow by eating food. The game gets progressively more challenging as the snake speeds up when you score higher!
 
 🎮 Features
