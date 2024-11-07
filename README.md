@@ -14,7 +14,7 @@ To run this game, ensure you have Python installed. Clone this repository and na
 
 bash
 
-git clone https://github.com/yourusername/snake-game.git
+git clone https://github.com/umutozangorkem06/snake.git
 cd snake-game
 Run the Game
 Start the game by running:
